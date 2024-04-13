@@ -1,0 +1,8 @@
+Autojudege.c Result
+Compile >> Success !
+Q1. >> wrong
+Q2. >> wrong
+Q3. >> wrong
+Q4. >> wrong
+Q5. >> wrong
+Q6. >> wrong
